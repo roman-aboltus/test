@@ -4,14 +4,20 @@
     box-sizing: border-box;
 }
 
-.header {
+header {
     background-color: red;
+    height: 20vh;
+    width: 100vw;
 }
 
-.main {
+main {
     background-color: blue;
+    height: 70vh;
+    width: 100vw;
 }
 
-.footer {
+footer {
     background-color: green;
+    height: 10vh;
+    width: 100vw;
 }
